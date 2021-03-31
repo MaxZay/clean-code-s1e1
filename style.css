@@ -178,7 +178,6 @@ li > * {
 .todo__image:hover {
     transform: rotateZ(0);
 }
-
 /* Completed */
 .completed-tasks__label {
     text-decoration: line-through;
@@ -243,12 +242,10 @@ li > * {
 ul li input[type=text] {
     display: none;
 }
-
 ul li.edit-mode input[type=text] {
     display: inline-block;
     width: 224px;
 }
-
 ul li.edit-mode label {
     display: none;
 }
