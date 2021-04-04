@@ -14,7 +14,6 @@ var incompleteTaskHolder = document.querySelector(".main-page__todo"); //ul of #
 var completedTasksHolder = document.querySelector(".main-page__completed-tasks"); //completed-tasks
 
 
-//New task list item
 var createNewTaskElement = function (taskString) {
 
     var listItem = document.createElement("li");
