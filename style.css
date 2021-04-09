@@ -69,7 +69,7 @@
     cursor: pointer;
 }
 .main-page__add:hover {
-    color: #3a3A3a;
+    color: #3a3a3a;
 }
 /* Heading */
 .main-page__title{
@@ -88,8 +88,8 @@
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -102,8 +102,8 @@
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -130,7 +130,7 @@
 .main-page__button:hover,
 .main-page__add:hover
 {
-    color: #0FC57C;
+    color: #0fc57c;
 }
 
 /* Task list */
@@ -193,21 +193,3 @@
 .edit-mode  .main-page__label {
     display: none;
 }
-
-/*ul#completed-tasks label {
-    text-decoration: line-through;
-    color: #888;
-}
-
-ul li input[type=text] {
-    display: none;
-}
-
-ul li.editMode input[type=text] {
-    display: inline-block;
-    width: 224px;
-}
-
-ul li.editMode label {
-    display: none;
-}*/
